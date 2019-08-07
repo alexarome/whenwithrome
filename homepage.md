@@ -1,3 +1,4 @@
+<head>
 Welcome!
 My name is Alexa Leigh Rome.
 I’m a Peruvian-American archaeologist interested in ancient and modern health, ancient DNA (aDNA), prehistoric Americas, modern Indigenous issues and rural health!
@@ -7,3 +8,4 @@ Additionally, I’ve worked on research projects in labs and museums, including 
 This blog is intended to chronicle some of my field experiences, highlight research of interest, and help share opportunities for the public to get involved in archaeology, cultural heritage, and preservation. 
 
 Thanks for visiting!
+<head>
